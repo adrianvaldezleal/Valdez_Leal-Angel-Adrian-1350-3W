@@ -7,7 +7,7 @@
 
 <h1>practicando html</h1>
 <h2>Valdez Leal Angel</h2>
-<p>este sera mi primer encabezado.</p>
+<p>encabezado.</p>
 
 </body>
 </html>
