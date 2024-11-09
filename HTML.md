@@ -5,14 +5,11 @@
 </head>
 <body>
 
-<h1>6 Noviembre Practicando atributos de HTML</h1>
-<p>¿Qué es un elemento HTML?<p>
-
-    <p>Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y una etiqueta final:
-        < tagname > El contenido va aquí... < /tagname >
-         HTML es todo, desde la etiqueta de inicio hasta la etiqueta final:
-        < h1 > Mi primer encabezado < /h1 >
-        < p > Mi primer párrafo. < /p > <p>
+<h1>practicando html</h1>
+<h2>Valdez Leal Angel</h2>
+<p>este sera mi primer encabezado.</p>
 
 </body>
 </html>
+
+![image](https://github.com/user-attachments/assets/98751c94-123e-4dab-933a-9cb3dc89389b)
